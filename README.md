@@ -2,9 +2,9 @@
 
 🎓Estudante de <b>Ciência da Computação</b> e <b>Unreal Engine</b>
 
-💻 Entusiasta de Hardware e I.A, principiando minha carreira com foco em <em>C++,C, SQL, HTML5 e CSS3<em/>.
+💻 Entusiasta de Hardware e I.A, principiando minha carreira com foco em  <b>C++,C, SQL, HTML5 e CSS3</b>.
 
-💼 Desenvolver minhas habilidade com projetos praticos, bons habitos de programação e soluções rapidas.
+💼Desenvolver minhas habilidade com projetos praticos, bons habitos de programação e soluções rapidas.
 
 
 <hr style= "border:  2px solid steelblue;">
