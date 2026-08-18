@@ -1,5 +1,23 @@
-<h1>Olá Mundo👋</h1>
+<h1>Hello World👋 Prazer Gabriel!</h1>
+
+🎓Estudante de <b>Ciência da Computação</b> e <b>Unreal Engine</b>
+
+💻 Entusiasta de Hardware e I.A, principiando minha carreira com foco em <em>C++,C, SQL, HTML5 e CSS3<em/>.
+
+💼 Desenvolver minhas habilidade com projetos praticos, bons habitos de programação e soluções rapidas.
+
+
 <hr style= "border:  2px solid steelblue;">
+
+
+
+
+
+
+
+
+
+
 <h3>My Social Medias</h3>
 <a href ="https://www.instagram.com/riels.a/?hl=pt-br" target= "_blank">
   <img src="https://images.icon-icons.com/2873/PNG/512/instagram_pixel_logo_icon_181922.png" width= "50" height= "50">
@@ -10,3 +28,4 @@
 <a href ="https://github.com/RielBorges">
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/56ddcf59-3cb4-4f3d-851e-91ec86e67871/df9xsq7-bf213b05-8c95-4b5e-a8aa-718d329ab707.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi81NmRkY2Y1OS0zY2I0LTRmM2QtODUxZS05MWVjODZlNjc4NzEvZGY5eHNxNy1iZjIxM2IwNS04Yzk1LTRiNWUtYThhYS03MThkMzI5YWI3MDcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Oe3yS_4pdoJoWWONm1KfoNPB0kZebMY1ByqeSer_zIY" width= "50" height= "50">
 <a/>
+
