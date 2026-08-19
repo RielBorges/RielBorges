@@ -1,4 +1,5 @@
-<h1>Hello World👋 Prazer Gabriel!</h1>
+<div align="center">
+  <h1>Hello World👋 Prazer Gabriel!</h1>
 
 
 📕Estudante de <b>Ciência da Computação</b> e <b>Unreal Engine</b>
@@ -9,18 +10,17 @@
 
 <hr style= "border:  2px solid steelblue;">
 
+
+
+<div align="center">
 <h2>My Skills🧠</h2>
-
-
+  
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,vscode,arduino,unrealengine&theme=dark)](https://skillicons.dev)
 
 
 
-
-
-
 ##
-<h3>My Social Medias</h3>
+<h3>My Social Links🔗</h3>
 
 <table>
   <tr>
