@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Hello World👋 Prazer Gabriel!</h1>
 
-
 📕Estudante de <b>Ciência da Computação</b> e <b>Unreal Engine</b>
 
 ⚙️Entusiasta de Hardware e I.A, principiando minha carreira com foco em  <b>C++,C, SQL, HTML5 e CSS3</b>.
@@ -10,12 +9,10 @@
 
 <hr style= "border:  2px solid steelblue;">
 
-
-
 <div align="center">
 <h2>My Skills🧠</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,vscode,arduino,unrealengine&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,vscode,arduino,unrealengine&theme=dark)](https://skillicons.dev)
 
 
 
@@ -36,6 +33,8 @@
     </td>
   </tr>
 </table>
+
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucaMaciel12/LucaMaciel12/output/github-contribution-grid-snake-dark.svg">
