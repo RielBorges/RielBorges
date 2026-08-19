@@ -27,6 +27,11 @@
       </a>
     </td>
     <td align="center">
+      <a href="https://www.linkedin.com/in/gabriel-borges-82106928b/">
+        <img src="https://img.shields.io/badge/Linkedin-Gabriel Borges-181717?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/RielBorges">
         <img src="https://img.shields.io/badge/GitHub-RielBorges-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
