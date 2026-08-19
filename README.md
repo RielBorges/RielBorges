@@ -1,23 +1,25 @@
 <h1>Hello World👋 Prazer Gabriel!</h1>
 
+
 📕Estudante de <b>Ciência da Computação</b> e <b>Unreal Engine</b>
 
 ⚙️Entusiasta de Hardware e I.A, principiando minha carreira com foco em  <b>C++,C, SQL, HTML5 e CSS3</b>.
 
 💼Desenvolver minhas habilidade com projetos praticos, bons habitos de programação e soluções rapidas.
 
-
 <hr style= "border:  2px solid steelblue;">
 
+<h2>My Skills🧠</h2>
+
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,vscode,arduino,unrealengine&theme=dark)](https://skillicons.dev)
 
 
 
 
 
 
-
-
-
+##
 <h3>My Social Medias</h3>
 <a href ="https://www.instagram.com/riels.a/?hl=pt-br" target= "_blank">
   <img src="https://images.icon-icons.com/2873/PNG/512/instagram_pixel_logo_icon_181922.png" width= "50" height= "50">
