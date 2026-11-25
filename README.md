@@ -12,7 +12,7 @@
 <div align="center">
 <h2>My Skills🧠</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,vscode,arduino,unrealengine&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,c,java,vscode,arduino,unrealengine&theme=dark)](https://skillicons.dev)
 
 
 
